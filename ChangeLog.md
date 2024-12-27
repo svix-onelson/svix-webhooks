@@ -3,6 +3,9 @@
 ## Next
 * 
 
+## Version 1.50.0
+* 
+
 ## Version 1.49.0
 * 
 
