@@ -1,3 +1,6 @@
+[dist]
+dist = true
+
 [package]
 name = "svix"
 

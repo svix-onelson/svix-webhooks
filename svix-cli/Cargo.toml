@@ -1,7 +1,7 @@
 [package]
 name = "svix-cli"
 description = "A CLI to interact with the Svix API."
-version = "1.50.0"
+version = "1.51.0"
 edition = "2021"
 license = "MIT"
 keywords = ["svix", "webhooks", "diahook"]
@@ -15,9 +15,6 @@ upgrade-guid = "E6EF2AC4-2BA1-4E36-BDD5-FEE972946181"
 path-guid = "09E262C8-4654-4160-A6A9-C03E92D3E575"
 license = false
 eula = false
-
-[package.metadata.dist]
-dist = true
 
 [[bin]]
 name = "svix"
