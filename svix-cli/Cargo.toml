@@ -3,12 +3,12 @@ name = "svix-cli"
 description = "A CLI to interact with the Svix API."
 homepage = "https://www.svix.com"
 authors = ["Svix Inc. <oss@svix.com>"]
-version = "1.52.0"
+version = "1.53.0"
 edition = "2021"
 license = "MIT"
 keywords = ["svix", "webhooks", "diahook"]
 categories = ["development-tools", "asynchronous", "network-programming", "web-programming"]
-repository = "https://github.com/svix/svix-webhooks"
+repository = "https://github.com/svix-onelson/svix-webhooks"
 publish = false
 
 [package.metadata.dist]
